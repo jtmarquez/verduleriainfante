@@ -39,7 +39,7 @@ a.inicio_header {
     background-color: transparent;
 }
 a.inicio_header > button {
-    background-color: lightgreen;
+    background-color: #90ee90;
     padding: 9px 9px;
     border-radius: 9px;
     border: none;
@@ -109,7 +109,7 @@ a.cta:hover > button {
 
 }
 header.header_class {
-    background-color: lightgreen;
+    background-color: #90ee90;
 }
 hr.hr_header{
     border: 2px solid rgb(110, 180, 110);
